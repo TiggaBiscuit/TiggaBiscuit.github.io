@@ -1,0 +1,8 @@
+{
+    "short_name": "Some Words",
+    "name": "Long Ammounts of Words",
+    "icons": [],
+    "start_url": "index.html?launcher=true",
+    "background_color": "#F26430",
+    "display": "standalone",
+}
